@@ -22,10 +22,6 @@
 				"Linux",
 				"Mac"
 			]
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
